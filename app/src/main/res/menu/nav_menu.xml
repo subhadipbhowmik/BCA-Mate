@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:ShowIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_home"
+            android:icon="@drawable/notes_icon_32"
+            android:title="Notes"/>
+
+        <item android:id="@+id/nav_time_table"
+            android:icon="@drawable/time_icon_32"
+            android:title="Time Table"/>
+
+
+        <item android:id="@+id/nav_mentor_list"
+            android:icon="@drawable/mentor_icon_32"
+            android:title="Mentor List"/>
+
+        <item android:id="@+id/nav_cr_list"
+            android:icon="@drawable/cr_icon_32"
+            android:title="CR List"/>
+
+
+
+        <item android:id="@+id/nav_whatsapp_groups"
+            android:icon="@drawable/whatsapp_icon_32"
+            android:title="Whatsapp Groups"/>
+
+        <item android:id="@+id/nav_important_contacts"
+            android:icon="@drawable/contact_icon_32"
+            android:title="Important Contacts"/>
+
+        <item android:id="@+id/nav_developer_details"
+            android:icon="@drawable/developer_icon_32"
+            android:title="About Developers"/>
+
+
+        <item android:id="@+id/nav_tc"
+            android:icon="@drawable/ic_join_toc"
+            android:title="T &amp; C"/>
+
+        <item android:id="@+id/nav_privacy"
+            android:icon="@drawable/ic_join_privacy"
+            android:title="Privacy Policy"/>
+
+        <item android:id="@+id/nav_share"
+            android:icon="@drawable/share_icon_32"
+            android:title="Share"/>
+
+
+
+    </group>
+
+</menu>

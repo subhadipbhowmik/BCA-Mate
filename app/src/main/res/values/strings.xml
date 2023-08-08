@@ -1,0 +1,303 @@
+<resources>
+    <string name="app_name">BCA Mate</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string name="dept_name">UIC Department</string>
+
+    <string name="view">View</string>
+    <string name="call">Call Now</string>
+
+    <string name="pdf">Get Notes</string>
+
+
+    <!--    Computer networks chapters -->
+    <!--    unit 1-->
+
+    <string name="sem_3_cn_unit1_topic_01_01">CN TOPIC 1.1.1</string>
+    <string name="sem_3_cn_unit1_topic_01_02">CN TOPIC 1.1.2</string>
+    <string name="sem_3_cn_unit1_topic_01_03">CN TOPIC 1.1.3</string>
+    <string name="sem_3_cn_unit1_topic_01_04">CN TOPIC 1.1.4</string>
+    <string name="sem_3_cn_unit1_topic_01_05">CN TOPIC 1.1.5</string>
+    <string name="sem_3_cn_unit1_topic_01_06">CN TOPIC 1.1.6</string>
+    <string name="sem_3_cn_unit1_topic_01_07">CN TOPIC 1.1.7</string>
+
+    <!--    unit o2-->
+    <string name="sem_3_cn_unit1_topic_02_01">CN TOPIC 1.2.1</string>
+    <string name="sem_3_cn_unit1_topic_02_02">CN TOPIC 1.2.2</string>
+    <string name="sem_3_cn_unit1_topic_02_03">CN TOPIC 1.2.3</string>
+    <string name="sem_3_cn_unit1_topic_02_04">CN TOPIC 1.2.4</string>
+    <string name="sem_3_cn_unit1_topic_02_05">CN TOPIC 1.2.5</string>
+
+    <!--    unit 03-->
+
+    <string name="sem_3_cn_unit1_topic_03_01">CN TOPIC 1.3.1</string>
+    <string name="sem_3_cn_unit1_topic_03_02">CN TOPIC 1.3.2</string>
+    <string name="sem_3_cn_unit1_topic_03_03">CN TOPIC 1.3.3</string>
+
+
+    <!--    data structure subject chapters -->
+    <!--    unit 1-->
+
+    <string name="sem_3_dsa_unit1_topic_01_01">DSA TOPIC 1.1.1</string>
+    <string name="sem_3_dsa_unit1_topic_01_02">DSA TOPIC 1.1.2</string>
+    <string name="sem_3_dsa_unit1_topic_01_03">DSA TOPIC 1.1.3</string>
+    <string name="sem_3_dsa_unit1_topic_01_04">DSA TOPIC 1.1.4</string>
+
+
+    <!--    unit 2-->
+    <string name="sem_3_dsa_unit1_topic_02_01">DSA TOPIC 1.2.1</string>
+    <string name="sem_3_dsa_unit1_topic_02_02">DSA TOPIC 1.2.2</string>
+    <string name="sem_3_dsa_unit1_topic_02_03">DSA TOPIC 1.2.3</string>
+    <string name="sem_3_dsa_unit1_topic_02_04">DSA TOPIC 1.2.4</string>
+    <string name="sem_3_dsa_unit1_topic_02_05">DSA TOPIC 1.2.5</string>
+    <string name="sem_3_dsa_unit1_topic_02_06">DSA TOPIC 1.2.6</string>
+
+    <!--    unit 03-->
+
+    <string name="sem_3_dsa_unit1_topic_03_01">DSA TOPIC 1.3.1</string>
+    <string name="sem_3_dsa_unit1_topic_03_02">DSA TOPIC 1.3.2</string>
+    <string name="sem_3_dsa_unit1_topic_03_03">DSA TOPIC 1.3.3</string>
+
+
+    <!--    data structure subject chapters -->
+    <!--    unit 1-->
+
+    <string name="sem_3_swe_unit1_topic_01_01">SWE TOPIC 1.1.1</string>
+    <string name="sem_3_swe_unit1_topic_01_02">SWE TOPIC 1.1.2</string>
+    <string name="sem_3_swe_unit1_topic_01_03">SWE TOPIC 1.1.3</string>
+    <string name="sem_3_swe_unit1_topic_01_04">SWE TOPIC 1.1.4</string>
+    <string name="sem_3_swe_unit1_topic_01_05">SWE TOPIC 1.1.5</string>
+
+    <!--    unit 2-->
+    <string name="sem_3_swe_unit1_topic_02_01">SWE TOPIC 1.2.1</string>
+    <string name="sem_3_swe_unit1_topic_02_02">SWE TOPIC 1.2.2</string>
+    <string name="sem_3_swe_unit1_topic_02_03">SWE TOPIC 1.2.3</string>
+    <string name="sem_3_swe_unit1_topic_02_04">SWE TOPIC 1.2.4</string>
+    <string name="sem_3_swe_unit1_topic_02_05">SWE TOPIC 1.2.5</string>
+
+    <!--    unit 03-->
+
+    <string name="sem_3_swe_unit1_topic_03_01">SWE TOPIC 1.3.1</string>
+    <string name="sem_3_swe_unit1_topic_03_02">SWE TOPIC 1.3.2</string>
+    <string name="sem_3_swe_unit1_topic_03_03">SWE TOPIC 1.3.3</string>
+    <string name="sem_3_swe_unit1_topic_03_04">SWE TOPIC 1.3.4</string>
+
+    <!--    Universal subject chapters -->
+    <!--    unit 1-->
+
+    <string name="sem_3_uni_unit1_topic_01_01">UNI TOPIC 1.1.1</string>
+    <string name="sem_3_uni_unit1_topic_01_02">UNI TOPIC 1.1.2</string>
+
+    <!--    unit 2-->
+    <string name="sem_3_uni_unit1_topic_02_01">UNI TOPIC 1.2.1</string>
+    <string name="sem_3_uni_unit1_topic_02_02">UNI TOPIC 1.2.2</string>
+
+    <!--    unit 03-->
+    <string name="sem_3_uni_unit1_topic_03_01">UNI TOPIC 1.3.1</string>
+
+
+    <!--    Privacy subject chapters -->
+    <!--    unit 1-->
+    <string name="sem_3_privacy_unit1_topic_01_01">Privacy 1.1.1</string>
+
+    <!--    unit 2-->
+    <string name="sem_3_privacy_unit1_topic_02_01">Privacy 1.2.1</string>
+    <string name="sem_3_privacy_unit1_topic_02_02">Privacy 1.2.2</string>
+
+    <!--    unit 03-->
+    <string name="sem_3_privacy_unit1_topic_03_01">Privacy 1.3.1</string>
+    <string name="sem_3_privacy_unit1_topic_03_02">Privacy 1.3.2</string>
+
+    <!--    Soft Skill subject chapters -->
+    <!--    unit 1-->
+    <string name="sem_3_soft_unit1_session_01">Session 1.1</string>
+    <string name="sem_3_soft_unit1_session_02">Session 1.2</string>
+    <string name="sem_3_soft_unit1_session_03">Session 1.3</string>
+    <string name="sem_3_soft_unit1_session_04">Session 1.4</string>
+    <string name="sem_3_soft_unit1_session_05">Session 1.5</string>
+    <string name="sem_3_soft_unit1_session_06">Session 1.6</string>
+    <string name="sem_3_soft_unit1_session_07">Session 1.7</string>
+    <string name="sem_3_soft_unit1_session_08">Session 1.8</string>
+    <string name="sem_3_soft_unit1_session_09">Session 1.9</string>
+    <string name="sem_3_soft_unit1_session_10">Session 1.10</string>
+
+    <!--    section and groups -->
+
+    <string name="join_group">Join Group</string>
+
+    <string name="bca_22_1">22BCA-1</string>
+    <string name="bca_22_2">22BCA-2</string>
+    <string name="bca_22_3">22BCA-3</string>
+    <string name="bca_22_4">22BCA-4</string>
+    <string name="bca_22_5">22BCA-5</string>
+    <string name="bca_22_6">22BCA-6</string>
+    <string name="bca_22_7">22BCA-7</string>
+    <string name="bca_22_8">22BCA-8</string>
+    <string name="bca_22_9">22BCA-9</string>
+    <string name="bca_22_10">22BCA-10</string>
+
+
+    <string name="bca_22_1_a">22BCA-1 [A]</string>
+    <string name="bca_22_1_b">22BCA-1 [B]</string>
+
+    <string name="bca_22_2_a">22BCA-2 [A]</string>
+    <string name="bca_22_2_b">22BCA-2 [B]</string>
+
+    <string name="bca_22_3_a">22BCA-3 [A]</string>
+    <string name="bca_22_3_b">22BCA-3 [B]</string>
+
+    <string name="bca_22_4_a">22BCA-4 [A]</string>
+    <string name="bca_22_4_b">22BCA-4 [B]</string>
+
+    <string name="bca_22_5_a">22BCA-5 [A]</string>
+    <string name="bca_22_5_b">22BCA-5 [B]</string>
+
+    <string name="bca_22_6_a">22BCA-6 [A]</string>
+    <string name="bca_22_6_b">22BCA-6 [B]</string>
+
+    <string name="bca_22_7_a">22BCA-7 [A]</string>
+    <string name="bca_22_7_b">22BCA-7 [B]</string>
+
+    <string name="bca_22_8_a">22BCA-8 [A]</string>
+    <string name="bca_22_8_b">22BCA-8 [B]</string>
+
+    <string name="bca_22_9_a">22BCA-9 [A]</string>
+    <string name="bca_22_9_b">22BCA-9 [B]</string>
+
+    <string name="bca_22_10_a">22BCA-10 [A]</string>
+    <string name="bca_22_10_b">22BCA-10 [B]</string>
+
+
+    <!--    mentors -->
+
+    <string name="bca1_a_mentor">Mr. Sachin</string>
+    <string name="bca1_a_mentor_id">EID: E15485</string>
+
+    <string name="bca1_b_mentor">Mr. Arvinder Singh</string>
+    <string name="bca1_b_mentor_id">EID: E14806</string>
+
+    <string name="bca2_a_mentor">Mrs. Harneet Kaur</string>
+    <string name="bca2_a_mentor_id">EID: E14114</string>
+
+
+    <string name="bca2_b_mentor">Ms. Rashmi Saluja</string>
+    <string name="bca2_b_mentor_id">EID: E15747</string>
+
+    <string name="bca3_a_mentor">Ms. Konika Rani</string>
+    <string name="bca3_a_mentor_id">EID: E13199</string>
+
+    <string name="bca3_b_mentor">Ms. Sharmistha Dey</string>
+    <string name="bca3_b_mentor_id">EID: E12828</string>
+
+    <string name="bca4_a_mentor">Ms. Sushma</string>
+    <string name="bca4_a_mentor_id">EID: E13049</string>
+
+    <string name="bca4_b_mentor">Mrs. Ruchika Rana</string>
+    <string name="bca4_b_mentor_id">EID: E14123</string>
+
+    <string name="bca5_a_mentor">Ms. Jyoti Dhiman</string>
+    <string name="bca5_a_mentor_id">EID: E14005</string>
+
+    <string name="bca5_b_mentor">Ms. Gurpreet</string>
+    <string name="bca5_b_mentor_id">EID: E14273</string>
+
+    <string name="bca6_a_mentor">Ms Simran</string>
+    <string name="bca6_a_mentor_id">EID: E15463</string>
+
+    <string name="bca6_b_mentor">Ms. Kanchan</string>
+    <string name="bca6_b_mentor_id">EID: E13608</string>
+
+    <string name="bca7_a_mentor">Mr. Sanjay Kumar Aggarwal</string>
+    <string name="bca7_a_mentor_id">EID: E13150</string>
+
+    <string name="bca7_b_mentor">Ms. Harleen Kaur</string>
+    <string name="bca7_b_mentor_id">EID: E15148</string>
+
+    <string name="bca8_a_mentor">Ms. Preeti</string>
+    <string name="bca8_a_mentor_id">EID: E8780</string>
+
+    <string name="bca8_b_mentor">Dr. Mohsin Fayaz</string>
+    <string name="bca8_b_mentor_id">EID: E14682</string>
+
+    <string name="bca9_a_mentor">Ms. Ramandeep Kaur</string>
+    <string name="bca9_a_mentor_id">EID: E12062</string>
+
+    <string name="bca9_b_mentor">Mr. Arshad Ahmad Wani</string>
+    <string name="bca9_b_mentor_id">EID: E15587</string>
+
+    <string name="bca10_a_mentor">Mr. Arvind Vaishnavi</string>
+    <string name="bca10_a_mentor_id">EID: E15026</string>
+
+    <string name="bca10_b_mentor">Ms. Jyoti Saini</string>
+    <string name="bca10_b_mentor_id">EID: E11736</string>
+
+
+    <!--    all cr of classes-->
+
+    <string name="bca1_a_cr">Rishu Ranjan</string>
+    <string name="bca1_a_cr_uid">UID: 22BCA10031</string>
+
+    <string name="bca1_b_cr">Jashika</string>
+    <string name="bca1_b_cr_uid">UID: 22BCA10175</string>
+
+    <string name="bca2_a_cr">Rashmi Kumari</string>
+    <string name="bca2_a_cr_uid">UID: 22BCA10226</string>
+
+
+    <string name="bca2_b_cr">Ketan Pathak</string>
+    <string name="bca2_b_cr_uid">UID: 22BCAA10428</string>
+
+    <string name="bca3_a_cr">Gurmeet Singh</string>
+    <string name="bca3_a_cr_uid">UID: 22BCA10516</string>
+
+    <string name="bca3_b_cr">Harshitha</string>
+    <string name="bca3_b_cr_uid">UID: 22BCA10646</string>
+
+    <string name="bca4_a_cr">Abhinav Verma</string>
+    <string name="bca4_a_cr_uid">UID: 22BCA10337</string>
+
+    <string name="bca4_b_cr">Jigyasa</string>
+    <string name="bca4_b_cr_uid">UID: 22BCA11099</string>
+
+    <string name="bca5_a_cr">Drishti khanna</string>
+    <string name="bca5_a_cr_uid">UID: 22BCA11111</string>
+
+    <string name="bca5_b_cr">Madhav Pathak</string>
+    <string name="bca5_b_cr_uid">UID: 22BCA10013</string>
+
+    <string name="bca6_a_cr">Navneet</string>
+    <string name="bca6_a_cr_uid">UID: 22BCA10065</string>
+
+    <string name="bca6_b_cr">Aarya Gupta</string>
+    <string name="bca6_b_cr_uid">UID: 22BCA10083</string>
+
+    <string name="bca7_a_cr">Parag Jindal</string>
+    <string name="bca7_a_cr_uid">UID: 22BCA10161</string>
+
+    <string name="bca7_b_cr">Navjot Kaur</string>
+    <string name="bca7_b_cr_uid">UID: 22BCA10412</string>
+
+    <string name="bca8_a_cr">Himani</string>
+    <string name="bca8_a_cr_uid">UID: 22BCA10608</string>
+
+    <string name="bca8_b_cr">Not Selected Yet</string>
+    <string name="bca8_b_cr_uid">UID: NULL</string>
+
+    <string name="bca9_a_cr">Aayush Garg</string>
+    <string name="bca9_a_cr_uid">UID: 22BCA10871</string>
+
+    <string name="bca9_b_cr">Kashish Mittal </string>
+    <string name="bca9_b_cr_uid">UID: 22BCA10941</string>
+
+    <string name="bca10_a_cr">Riya Thakur</string>
+    <string name="bca10_a_cr_uid">UID: 22BCA11064</string>
+
+    <string name="bca10_b_cr">Dhruv Banga</string>
+    <string name="bca10_b_cr_uid">UID: 22IBC10002</string>
+    <string name="developer">Shubhadip Bhowmik\n</string>
+    <string name="my_quote">\"One day, in retrospect, the years of struggle will strike you as the most beautiful.\"\n</string>
+
+
+</resources>
