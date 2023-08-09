@@ -113,6 +113,7 @@
                 android:layout_height="wrap_content">
 
                 <Button
+                    android:id="@+id/callMentor1Btn"
                     style="@style/Widget.Material3.Button.ElevatedButton.Icon"
                     android:layout_marginEnd="20dp"
                     android:layout_width="wrap_content"
@@ -122,8 +123,8 @@
                     />
 
                 <Button
+                    android:id="@+id/waMentor1Btn"
                     style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Whatsapp"
@@ -131,8 +132,8 @@
                     />
 
                 <Button
+                    android:id="@+id/mailMentor1Btn"
                     style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                     android:layout_marginStart="20dp"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -246,6 +247,7 @@
                     android:layout_height="wrap_content">
 
                     <Button
+                        android:id="@+id/callMentor2Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
                         android:layout_marginEnd="20dp"
                         android:layout_width="wrap_content"
@@ -255,8 +257,8 @@
                         />
 
                     <Button
+                        android:id="@+id/waMentor2Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Whatsapp"
@@ -264,8 +266,8 @@
                         />
 
                     <Button
+                        android:id="@+id/mailMentor2Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                         android:layout_marginStart="20dp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -379,26 +381,25 @@
                     android:layout_height="wrap_content">
 
                     <Button
+                        android:id="@+id/callMentor3Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
                         android:layout_marginEnd="20dp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Call"
-
                         />
 
                     <Button
+                        android:id="@+id/waMentor3Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Whatsapp"
-
                         />
 
                     <Button
+                        android:id="@+id/mailMentor3Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                         android:layout_marginStart="20dp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -407,11 +408,9 @@
                         />
 
                 </LinearLayout>
-
             </LinearLayout>
 
         </androidx.cardview.widget.CardView>
-
 
         <!-- mentor 4 -->
         <androidx.cardview.widget.CardView
@@ -500,7 +499,6 @@
 
                 </LinearLayout>
 
-
                 <!--  call and email layout -->
 
                 <LinearLayout
@@ -513,6 +511,7 @@
                     android:layout_height="wrap_content">
 
                     <Button
+                        android:id="@+id/callMentor4Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
                         android:layout_marginEnd="20dp"
                         android:layout_width="wrap_content"
@@ -522,8 +521,8 @@
                         />
 
                     <Button
+                        android:id="@+id/waMentor4Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Whatsapp"
@@ -531,8 +530,8 @@
                         />
 
                     <Button
+                        android:id="@+id/mailMentor4Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                         android:layout_marginStart="20dp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -541,6 +540,7 @@
                         />
 
                 </LinearLayout>
+
 
             </LinearLayout>
 
@@ -646,6 +646,7 @@
                     android:layout_height="wrap_content">
 
                     <Button
+                        android:id="@+id/callMentor5Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
                         android:layout_marginEnd="20dp"
                         android:layout_width="wrap_content"
@@ -655,6 +656,7 @@
                         />
 
                     <Button
+                        android:id="@+id/waMentor5Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
 
                         android:layout_width="wrap_content"
@@ -664,6 +666,7 @@
                         />
 
                     <Button
+                        android:id="@+id/mailMentor5Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
 
                         android:layout_marginStart="20dp"
@@ -766,7 +769,6 @@
 
                 </LinearLayout>
 
-
                 <!--  call and email layout -->
 
                 <LinearLayout
@@ -779,6 +781,7 @@
                     android:layout_height="wrap_content">
 
                     <Button
+                        android:id="@+id/callMentor6Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
                         android:layout_marginEnd="20dp"
                         android:layout_width="wrap_content"
@@ -788,8 +791,8 @@
                         />
 
                     <Button
+                        android:id="@+id/waMentor6Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Whatsapp"
@@ -797,8 +800,8 @@
                         />
 
                     <Button
+                        android:id="@+id/mailMentor6Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                         android:layout_marginStart="20dp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -807,6 +810,7 @@
                         />
 
                 </LinearLayout>
+
 
             </LinearLayout>
 
@@ -850,7 +854,7 @@
 
                 </LinearLayout>
 
-                <!--            image and mentor details -->
+                <!--       image and mentor details -->
 
                 <LinearLayout
                     android:layout_marginBottom="10dp"
@@ -912,6 +916,7 @@
                     android:layout_height="wrap_content">
 
                     <Button
+                        android:id="@+id/callMentor7Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
                         android:layout_marginEnd="20dp"
                         android:layout_width="wrap_content"
@@ -921,17 +926,16 @@
                         />
 
                     <Button
+                        android:id="@+id/waMentor7Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Whatsapp"
-
                         />
 
                     <Button
+                        android:id="@+id/mailMentor7Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                         android:layout_marginStart="20dp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -940,6 +944,7 @@
                         />
 
                 </LinearLayout>
+
 
             </LinearLayout>
 
@@ -1032,7 +1037,6 @@
 
                 </LinearLayout>
 
-
                 <!--  call and email layout -->
 
                 <LinearLayout
@@ -1045,6 +1049,7 @@
                     android:layout_height="wrap_content">
 
                     <Button
+                        android:id="@+id/callMentor8Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
                         android:layout_marginEnd="20dp"
                         android:layout_width="wrap_content"
@@ -1054,8 +1059,8 @@
                         />
 
                     <Button
+                        android:id="@+id/waMentor8Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Whatsapp"
@@ -1063,8 +1068,8 @@
                         />
 
                     <Button
+                        android:id="@+id/mailMentor8Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                         android:layout_marginStart="20dp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -1073,6 +1078,7 @@
                         />
 
                 </LinearLayout>
+
 
             </LinearLayout>
 
@@ -1166,7 +1172,6 @@
 
                 </LinearLayout>
 
-
                 <!--  call and email layout -->
 
                 <LinearLayout
@@ -1179,6 +1184,7 @@
                     android:layout_height="wrap_content">
 
                     <Button
+                        android:id="@+id/callMentor9Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
                         android:layout_marginEnd="20dp"
                         android:layout_width="wrap_content"
@@ -1188,8 +1194,8 @@
                         />
 
                     <Button
+                        android:id="@+id/waMentor9Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Whatsapp"
@@ -1197,8 +1203,8 @@
                         />
 
                     <Button
+                        android:id="@+id/mailMentor9Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                         android:layout_marginStart="20dp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -1207,6 +1213,7 @@
                         />
 
                 </LinearLayout>
+
 
             </LinearLayout>
 
@@ -1312,6 +1319,7 @@
                     android:layout_height="wrap_content">
 
                     <Button
+                        android:id="@+id/callMentor10Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
                         android:layout_marginEnd="20dp"
                         android:layout_width="wrap_content"
@@ -1321,8 +1329,8 @@
                         />
 
                     <Button
+                        android:id="@+id/waMentor10Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Whatsapp"
@@ -1330,8 +1338,8 @@
                         />
 
                     <Button
+                        android:id="@+id/mailMentor10Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                         android:layout_marginStart="20dp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -1340,6 +1348,7 @@
                         />
 
                 </LinearLayout>
+
 
             </LinearLayout>
 
@@ -1446,6 +1455,7 @@
                     android:layout_height="wrap_content">
 
                     <Button
+                        android:id="@+id/callMentor11Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
                         android:layout_marginEnd="20dp"
                         android:layout_width="wrap_content"
@@ -1455,8 +1465,8 @@
                         />
 
                     <Button
+                        android:id="@+id/waMentor11Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Whatsapp"
@@ -1464,8 +1474,8 @@
                         />
 
                     <Button
+                        android:id="@+id/mailMentor11Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                         android:layout_marginStart="20dp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -1474,6 +1484,7 @@
                         />
 
                 </LinearLayout>
+
 
             </LinearLayout>
 
@@ -1579,6 +1590,7 @@
                     android:layout_height="wrap_content">
 
                     <Button
+                        android:id="@+id/callMentor12Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
                         android:layout_marginEnd="20dp"
                         android:layout_width="wrap_content"
@@ -1588,8 +1600,8 @@
                         />
 
                     <Button
+                        android:id="@+id/waMentor12Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Whatsapp"
@@ -1597,8 +1609,8 @@
                         />
 
                     <Button
+                        android:id="@+id/mailMentor12Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                         android:layout_marginStart="20dp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -1607,6 +1619,7 @@
                         />
 
                 </LinearLayout>
+
 
             </LinearLayout>
 
@@ -1712,6 +1725,7 @@
                     android:layout_height="wrap_content">
 
                     <Button
+                        android:id="@+id/callMentor13Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
                         android:layout_marginEnd="20dp"
                         android:layout_width="wrap_content"
@@ -1721,8 +1735,8 @@
                         />
 
                     <Button
+                        android:id="@+id/waMentor13Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Whatsapp"
@@ -1730,8 +1744,8 @@
                         />
 
                     <Button
+                        android:id="@+id/mailMentor13Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                         android:layout_marginStart="20dp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -1741,10 +1755,10 @@
 
                 </LinearLayout>
 
+
             </LinearLayout>
 
         </androidx.cardview.widget.CardView>
-
 
         <!-- mentor 14 -->
         <androidx.cardview.widget.CardView
@@ -1784,7 +1798,7 @@
 
                 </LinearLayout>
 
-                <!--            image and mentor details -->
+                <!--       image and mentor details -->
 
                 <LinearLayout
                     android:layout_marginBottom="10dp"
@@ -1833,7 +1847,6 @@
 
                 </LinearLayout>
 
-
                 <!--  call and email layout -->
 
                 <LinearLayout
@@ -1846,6 +1859,7 @@
                     android:layout_height="wrap_content">
 
                     <Button
+                        android:id="@+id/callMentor14Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
                         android:layout_marginEnd="20dp"
                         android:layout_width="wrap_content"
@@ -1855,8 +1869,8 @@
                         />
 
                     <Button
+                        android:id="@+id/waMentor14Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Whatsapp"
@@ -1864,8 +1878,8 @@
                         />
 
                     <Button
+                        android:id="@+id/mailMentor14Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                         android:layout_marginStart="20dp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -1874,6 +1888,7 @@
                         />
 
                 </LinearLayout>
+
 
             </LinearLayout>
 
@@ -1979,6 +1994,7 @@
                     android:layout_height="wrap_content">
 
                     <Button
+                        android:id="@+id/callMentor15Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
                         android:layout_marginEnd="20dp"
                         android:layout_width="wrap_content"
@@ -1988,8 +2004,8 @@
                         />
 
                     <Button
+                        android:id="@+id/waMentor15Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Whatsapp"
@@ -1997,8 +2013,8 @@
                         />
 
                     <Button
+                        android:id="@+id/mailMentor15Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                         android:layout_marginStart="20dp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -2007,6 +2023,7 @@
                         />
 
                 </LinearLayout>
+
 
             </LinearLayout>
 
@@ -2110,6 +2127,7 @@
                     android:layout_height="wrap_content">
 
                     <Button
+                        android:id="@+id/callMentor16Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
                         android:layout_marginEnd="20dp"
                         android:layout_width="wrap_content"
@@ -2119,8 +2137,8 @@
                         />
 
                     <Button
+                        android:id="@+id/waMentor16Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Whatsapp"
@@ -2128,8 +2146,8 @@
                         />
 
                     <Button
+                        android:id="@+id/mailMentor16Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                         android:layout_marginStart="20dp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -2138,6 +2156,7 @@
                         />
 
                 </LinearLayout>
+
 
             </LinearLayout>
 
@@ -2181,7 +2200,7 @@
 
                 </LinearLayout>
 
-                <!--            image and mentor details -->
+                <!--   image and mentor details -->
 
                 <LinearLayout
                     android:layout_marginBottom="10dp"
@@ -2243,6 +2262,7 @@
                     android:layout_height="wrap_content">
 
                     <Button
+                        android:id="@+id/callMentor17Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
                         android:layout_marginEnd="20dp"
                         android:layout_width="wrap_content"
@@ -2252,8 +2272,8 @@
                         />
 
                     <Button
+                        android:id="@+id/waMentor17Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Whatsapp"
@@ -2261,8 +2281,8 @@
                         />
 
                     <Button
+                        android:id="@+id/mailMentor17Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                         android:layout_marginStart="20dp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -2271,6 +2291,7 @@
                         />
 
                 </LinearLayout>
+
 
             </LinearLayout>
 
@@ -2363,7 +2384,6 @@
 
                 </LinearLayout>
 
-
                 <!--  call and email layout -->
 
                 <LinearLayout
@@ -2376,6 +2396,7 @@
                     android:layout_height="wrap_content">
 
                     <Button
+                        android:id="@+id/callMentor18Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
                         android:layout_marginEnd="20dp"
                         android:layout_width="wrap_content"
@@ -2385,8 +2406,8 @@
                         />
 
                     <Button
+                        android:id="@+id/waMentor18Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Whatsapp"
@@ -2394,8 +2415,8 @@
                         />
 
                     <Button
+                        android:id="@+id/mailMentor18Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                         android:layout_marginStart="20dp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -2404,6 +2425,7 @@
                         />
 
                 </LinearLayout>
+
 
             </LinearLayout>
 
@@ -2510,6 +2532,7 @@
                     android:layout_height="wrap_content">
 
                     <Button
+                        android:id="@+id/callMentor19Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
                         android:layout_marginEnd="20dp"
                         android:layout_width="wrap_content"
@@ -2519,8 +2542,8 @@
                         />
 
                     <Button
+                        android:id="@+id/waMentor19Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Whatsapp"
@@ -2528,8 +2551,8 @@
                         />
 
                     <Button
+                        android:id="@+id/mailMentor19Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                         android:layout_marginStart="20dp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -2538,6 +2561,7 @@
                         />
 
                 </LinearLayout>
+
 
             </LinearLayout>
 
@@ -2581,7 +2605,7 @@
 
                 </LinearLayout>
 
-                <!--            image and mentor details -->
+                <!--     image and mentor details -->
 
                 <LinearLayout
                     android:layout_marginBottom="10dp"
@@ -2627,9 +2651,7 @@
 
                     </LinearLayout>
 
-
                 </LinearLayout>
-
 
                 <!--  call and email layout -->
 
@@ -2643,6 +2665,7 @@
                     android:layout_height="wrap_content">
 
                     <Button
+                        android:id="@+id/callMentor20Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
                         android:layout_marginEnd="20dp"
                         android:layout_width="wrap_content"
@@ -2652,17 +2675,16 @@
                         />
 
                     <Button
+                        android:id="@+id/waMentor20Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Whatsapp"
-
                         />
 
                     <Button
+                        android:id="@+id/mailMentor20Btn"
                         style="@style/Widget.Material3.Button.ElevatedButton.Icon"
-
                         android:layout_marginStart="20dp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -2671,6 +2693,7 @@
                         />
 
                 </LinearLayout>
+
 
             </LinearLayout>
 
