@@ -3,12 +3,80 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:context=".TimeTableFragment">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
+
+    <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="Time Tables" />
+        android:layout_height="match_parent">
+
+  <com.google.android.material.tabs.TabLayout
+      app:tabMode="scrollable"
+      android:id="@+id/tabLayout"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content">
+      
+      <com.google.android.material.tabs.TabItem
+          android:id="@+id/bca1TimeTable"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="@string/bca_22_1" />
+
+      <com.google.android.material.tabs.TabItem
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="@string/bca_22_2" />
+
+      <com.google.android.material.tabs.TabItem
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="@string/bca_22_3" />
+
+      <com.google.android.material.tabs.TabItem
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="@string/bca_22_4" />
+
+      <com.google.android.material.tabs.TabItem
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="@string/bca_22_5" />
+
+
+      <com.google.android.material.tabs.TabItem
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="@string/bca_22_6" />
+
+      <com.google.android.material.tabs.TabItem
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="@string/bca_22_7" />
+
+      <com.google.android.material.tabs.TabItem
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="@string/bca_22_8" />
+
+      <com.google.android.material.tabs.TabItem
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="@string/bca_22_9" />
+
+      <com.google.android.material.tabs.TabItem
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="@string/bca_22_10" />
+
+  </com.google.android.material.tabs.TabLayout>
+
+        <androidx.viewpager2.widget.ViewPager2
+            android:layout_below="@+id/tabLayout"
+            android:id="@+id/view_pager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+    </RelativeLayout>
 
 </FrameLayout>
